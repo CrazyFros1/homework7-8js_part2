@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.form {
+    width: 422px;
+    margin: 10px auto;
+    padding: 25px;
+    border: 1px solid #000;
+}
+
+input {
+    border: 1px solid #000;
+}
+
+label {
+    display: block;
+}
+
+button {
+    display: block;
+    width: 111px;
+    height: 35px;
+    margin: 15px;
+    border: 1px solid gray;
+    border-radius: 8px;
+}
